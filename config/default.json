@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb+srv://dragosgaleteanu:kJTGyPw7LsWsEttY@cluster0.b6wq1.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+  "jwtSecret": "mysecrettoken",
+  "covidtrackerURI": "https://test.api.amadeus.com/v1/duty-of-care/diseases/covid19-area-report?countryCode=",
+  "covidtrackertoken": "HYVpHxGaMt6dUUaTeWTtCCMKELAQ"
+}
